@@ -242,13 +242,109 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Administración de personal',
+      significado:
+        'proceso de planificar, organizar, dirigir y controlar las actividades relacionadas con la gestión del talento humano para alcanzar los objetivos de la organización.',
+    },
+    {
+      termino: 'Capacitación',
+      significado:
+        'proceso de formación orientado a fortalecer los conocimientos, habilidades y competencias necesarias para desempeñar un cargo de manera eficiente.',
+    },
+    {
+      termino: 'Directriz',
+      significado:
+        'lineamiento o política que orienta las decisiones, conductas y procedimientos dentro de una organización.',
+    },
+    {
+      termino: 'Inducción',
+      significado:
+        'proceso mediante el cual el nuevo colaborador conoce la organización, sus funciones, normas y procedimientos antes de asumir sus responsabilidades.',
+    },
+    {
+      termino: 'Manual de funciones',
+      significado:
+        'documento que establece el objetivo, las responsabilidades, competencias y requisitos de cada cargo dentro de la organización.',
+    },
+    {
+      termino: 'Procedimiento técnico',
+      significado:
+        'secuencia documentada y estandarizada de actividades que permite ejecutar una tarea de forma segura, eficiente y controlada.',
+    },
+    {
+      termino: 'Supervisión',
+      significado:
+        'proceso de seguimiento, control y evaluación de las actividades del personal para verificar el cumplimiento de los procedimientos y estándares establecidos.',
+    },
+    {
+      termino: 'Diagrama de flujo',
+      significado:
+        'representación gráfica de un proceso mediante símbolos estandarizados que muestran la secuencia de actividades y decisiones.',
+    },
+    {
+      termino: 'Trabajo en equipo',
+      significado:
+        'forma de organización en la que varias personas coordinan esfuerzos, comparten responsabilidades y colaboran para alcanzar objetivos comunes.',
+    },
+    {
+      termino: 'Liderazgo',
+      significado:
+        'capacidad para orientar, motivar y coordinar a un grupo de personas con el fin de lograr los objetivos organizacionales de manera eficaz.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Chiavenato, I. (2008). Gestión del talento humano. McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Decreto Ley 356 de 1994. Por el cual se expide el Estatuto de Vigilancia y Seguridad Privada.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dessler, G., & Varela, R. (2011). Administración de recursos humanos. Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ley 1920 de 2018. Por medio de la cual se dictan disposiciones relacionadas con la vigilancia y la seguridad privada en Colombia.',
+      link: '',
+    },
+    {
+      referencia: 'MacMillan. (s. f.). El departamento de recursos humanos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ordoñez. (2025). ¿Qué es la administración de personal? Una guía completa.',
+      link: '',
+    },
+    {
+      referencia:
+        'Superintendencia de Vigilancia y Seguridad Privada. (2013). Manual de doctrina de la Supervigilancia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Superintendencia de Vigilancia y Seguridad Privada. (2014). Protocolo de operación para el servicio de vigilancia y seguridad privada prestados en el sector residencial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Superintendencia de Vigilancia y Seguridad Privada. (2021). Manual de supervisión e interventoría.',
+      link: '',
+    },
+    {
+      referencia:
+        'Superintendencia de Vigilancia y Seguridad Privada. (s. f.). Protocolo de operación para el servicio de vigilancia y seguridad privada – Vigilancia electrónica.',
+      link: '',
+    },
+    {
+      referencia:
+        'Universidad Industrial de Santander. (2020). Manual de seguridad y vigilancia.',
       link: '',
     },
   ],
@@ -258,11 +354,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Olga Constanza Bermúdez',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
@@ -272,9 +369,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Joinner Enrique Osorio Martínez',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -282,20 +386,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -305,13 +439,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
