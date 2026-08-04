@@ -9,7 +9,7 @@
       p.mb-5 Cada servicio de seguridad exitoso comienza mucho antes de que un colaborador ocupe su puesto. Comienza con una adecuada administración de personal, un proceso que permite formar equipos competentes, comprometidos y preparados para responder con profesionalismo a cada desafío:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/PXwr5Ahi8TU?si=xvrgxsDf3SyUy4XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption.fit___figcaption-video Video. Administración de personal
       Separador
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
