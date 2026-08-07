@@ -22,7 +22,7 @@ export default {
       tema: 'Administración de personal, manuales y procedimientos en seguridad privada',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Identificar los conceptos clave relacionados con la administración del personal, los procedimientos técnicos, la supervisión, los manuales y el liderazgo en la seguridad privada.',
+        '<b>Objetivo:</b> identificar los conceptos clave relacionados con la administración del personal, los procedimientos técnicos, la supervisión, los manuales y el liderazgo en la seguridad privada.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
